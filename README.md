@@ -9,7 +9,7 @@ This repository contains six folders, each focusing on different aspects of Touc
 1. **UI_study**  
    Basics of setting up and customizing TouchDesigner's user interface.
    
-   ![UI_Study](https://github.com/user-attachments/assets/934d5297-3823-4ce3-a932-69bb97cd3f34)
+   ![UI_study](https://github.com/user-attachments/assets/6dc0ee3b-7715-48e9-8666-09a93d673a9e)
 
 2. **LiquidInteraction_study**  
    Visual art resembling liquid that interacts with mouse movements.
