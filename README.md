@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/ca53e977-f450-4c90-ba73-f22fb4e70d6f
 # TouchDesigner Study
 
 Welcome to the **TouchDesigner_study** repository, dedicated to exploring and mastering the capabilities of TouchDesigner. This repository is based on studies using TouchDesigner version 2023.11880, drawing from both Coloso lectures and various YouTube tutorials.
