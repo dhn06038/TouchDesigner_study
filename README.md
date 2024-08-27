@@ -14,8 +14,6 @@ This repository contains six folders, each focusing on different aspects of Touc
 2. **LiquidInteraction_study**  
    Visual art resembling liquid that interacts with mouse movements.
 
-   https://github.com/user-attachments/assets/a0dd4a6e-4d6d-4f22-96f8-97a904c9094d
-
    https://github.com/user-attachments/assets/d97df8c2-4fab-4008-bf71-bb4b5c71f5c0
 
    ![LiquidInteraction_study](https://github.com/user-attachments/assets/71f7aed5-9721-4823-adb7-b071d0570032)
