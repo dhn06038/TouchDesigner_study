@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/ca53e977-f450-4c90-ba73-f22fb4e70d6f
 # TouchDesigner Study
 
 Welcome to the **TouchDesigner_study** repository, dedicated to exploring and mastering the capabilities of TouchDesigner. This repository is based on studies using TouchDesigner version 2023.11880, drawing from both Coloso lectures and various YouTube tutorials.
@@ -14,9 +16,13 @@ This repository contains six folders, each focusing on different aspects of Touc
 2. **LiquidInteraction_study**  
    Visual art resembling liquid that interacts with mouse movements.
 
+   https://github.com/user-attachments/assets/a0dd4a6e-4d6d-4f22-96f8-97a904c9094d
+
+   https://github.com/user-attachments/assets/d97df8c2-4fab-4008-bf71-bb4b5c71f5c0
+
    ![LiquidInteraction_study](https://github.com/user-attachments/assets/71f7aed5-9721-4823-adb7-b071d0570032)
 
-3. **AudioReactive_study**  
+4. **AudioReactive_study**  
    Visual art that dynamically reacts to audio inputs, such as music.
 
    ![AudioReactive_study](https://github.com/user-attachments/assets/94c2756e-ab11-4899-9975-c3afa10ce9a6)
