@@ -14,8 +14,6 @@ This repository contains six folders, each focusing on different aspects of Touc
 2. **LiquidInteraction_study**  
    Visual art resembling liquid that interacts with mouse movements.
 
-   https://github.com/user-attachments/assets/d97df8c2-4fab-4008-bf71-bb4b5c71f5c0
-
    ![LiquidInteraction_study](https://github.com/user-attachments/assets/71f7aed5-9721-4823-adb7-b071d0570032)
 
 4. **AudioReactive_study**  
@@ -26,7 +24,10 @@ This repository contains six folders, each focusing on different aspects of Touc
 5. **GenerativeArt_study**  
    Creating generative art using Nvidia Flex and implementing simple camera motion capture for interactive camera effects.
 
-6. **VirtualSpace_study**  
+   ![TouchDesigner_waterfall](https://github.com/user-attachments/assets/6b53f487-58ef-4134-95d1-a373f06bfa7a)
+   ![TouchDesigner_cam](https://github.com/user-attachments/assets/4a129234-8d36-4379-a45d-0ce1fe3b219e)
+
+7. **VirtualSpace_study**  
    Designing and building virtual spaces within TouchDesigner.
 
    ![VirtualSpace_study](https://github.com/user-attachments/assets/9c4faa58-e61e-464b-bbd7-0e23de87d132)
